@@ -3,7 +3,7 @@
 Control your smart trainer directly from the browser.
 No app, no installation — just open the link.
 
-🔗 **[Open Surge](https://username.github.io/surge/)**
+🔗 **[Open IndoorTrainer](https://wepeta.github.io/IndoorTrainer/)**
 
 ## Features
 - ERG mode (power control via FTMS)
